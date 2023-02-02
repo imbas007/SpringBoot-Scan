@@ -1,13 +1,13 @@
 # SpringBoot-Scan
-日常渗透过程中，经常会碰到Spring Boot搭建的微服务，于是就想做一个针对Spring Boot的开源渗透框架，主要用作扫描SpringBoot的敏感信息泄露端点，并可以直接测试Spring Boot的相关高危漏洞。
+In the daily penetration process, I often encounter microservices built by Spring Boot, so I want to build an open source penetration framework for Spring Boot, which is mainly used to scan SpringBoot’s sensitive information leakage endpoints, and can directly test related high-risk vulnerabilities of Spring Boot .。
 
-于是，就写了这么一个工具：SpringBoot-Scan  【简称：“SB-Scan”（错乱】
+So, I wrote such a tool: SpringBoot-Scan [abbreviation: "SB-Scan" (confusion]
 
-**同时，后期将加入更多漏洞利用内置模块（各位师傅能不能赏个Star嘛~码代码挺辛苦的哈哈）**
+**At the same time, more built-in modules for exploiting vulnerabilities will be added in the later stage (Can you give me a star~ Coding code is very hard haha) **
 
-**我还整理了一篇SpringBootd的相关渗透姿势在我的个人博客，欢迎各位师傅前来交流哈哈：[https://blog.zgsec.cn/index.php/archives/129/](https://blog.zgsec.cn/index.php/archives/129/)**
+** I also compiled a related penetration posture of SpringBootd in my personal blog, welcome all masters to come and communicate haha:：[https://blog.zgsec.cn/index.php/archives/129/](https://blog.zgsec.cn/index.php/archives/129/)**
 
-# 工具使用
+# tool use
 ```
   ______                       __                      _______                        __
  /      \                     |  \                    |       \                      |  \
